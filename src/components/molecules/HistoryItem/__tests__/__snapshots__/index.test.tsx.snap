@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<HistoryItem /> created item should contain the created message 1`] = `
+<span>
+  You created a new todo
+</span>
+`;
+
+exports[`<HistoryItem /> deleted item should contain the deleted message 1`] = `
+<span>
+  You deleted a todo
+</span>
+`;
+
+exports[`<HistoryItem /> recieved item should contain the recieved message 1`] = `
+Array [
+  <span>
+    You received a todo from 
+  </span>,
+  <span
+    className="sc-bdVaJa gzaUvJ"
+  >
+    MOCK NAME
+  </span>,
+]
+`;
+
+exports[`<HistoryItem /> sent item should contain the sent message 1`] = `
+Array [
+  <span>
+    You sent a todo to 
+  </span>,
+  <span
+    className="sc-bdVaJa gzaUvJ"
+  >
+    MOCK NAME
+  </span>,
+]
+`;

@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "stylelint-config-standard",
+    "stylelint-config-airbnb"
+  ],
+  "rules": {
+    "selector-max-id": null
+  }
+}

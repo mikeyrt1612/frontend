@@ -1,0 +1,3 @@
+export const GET_HISTORY_REQUEST = 'history/GET_HISTORY_REQUEST'
+export const GET_HISTORY_SUCCESS = 'history/GET_HISTORY_SUCCESS'
+export const GET_HISTORY_ERROR = 'history/GET_HISTORY_ERROR'

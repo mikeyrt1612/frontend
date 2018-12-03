@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`sendTodo modal config should have the content we expect 1`] = `
+Array [
+  <span>
+    Are you sure you want to send 
+  </span>,
+  <span
+    className="sc-bdVaJa gzaUvJ"
+  >
+    MOCK NAME
+  </span>,
+  <span>
+     this todo?
+  </span>,
+]
+`;

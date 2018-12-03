@@ -1,0 +1,15 @@
+export const GET_TODOS_REQUEST = 'todos/GET_TODOS_REQUEST'
+export const GET_TODOS_SUCCESS = 'todos/GET_TODOS_SUCCESS'
+export const GET_TODOS_ERROR = 'todos/GET_TODOS_ERROR'
+
+export const POST_TODOS_REQUEST = 'todos/POST_TODOS_REQUEST'
+export const POST_TODOS_SUCCESS = 'todos/POST_TODOS_SUCCESS'
+export const POST_TODOS_ERROR = 'todos/POST_TODOS_ERROR'
+
+export const DELETE_TODOS_REQUEST = 'todos/DELETE_TODOS_REQUEST'
+export const DELETE_TODOS_SUCCESS = 'todos/DELETE_TODOS_SUCCESS'
+export const DELETE_TODOS_ERROR = 'todos/DELETE_TODOS_ERROR'
+
+export const SEND_TODO_REQUEST = 'todos/SEND_TODO_REQUEST'
+export const SEND_TODO_SUCCESS = 'todos/SEND_TODO_SUCCESS'
+export const SEND_TODO_ERROR = 'todos/SEND_TODO_ERROR'

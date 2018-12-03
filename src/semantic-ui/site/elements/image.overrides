@@ -1,0 +1,7 @@
+/*******************************
+         Site Overrides
+*******************************/
+
+.menu .item img.ui.image {
+  max-width: initial !important;
+}

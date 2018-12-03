@@ -1,0 +1,11 @@
+/*******************************
+         Site Overrides
+*******************************/
+
+body {
+  background: repeating-linear-gradient(125deg, @lightGrey, @lightGrey 100px, darken(@lightGrey, 2%) 100px, darken(@lightGrey, 2%) 200px);
+}
+
+#root {
+  height: 100%;
+}
